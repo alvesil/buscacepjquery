@@ -3,4 +3,4 @@
 <p>Utilizando requisição AJAX através do jQuery https://jquery.com/ 
 <br> e também para estilização o Bootstrap v5.x https://getbootstrap.com/</p>
 <br>
-<p>Disponível em https://github.com/alvesil/buscacepjquery"</p>
+<p>Disponível em [buscacepjquery](https://alvesil.github.io/buscacepjquery/)"</p>
